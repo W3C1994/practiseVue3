@@ -1,10 +1,10 @@
 <template>
-
+REGISTER
 </template>
 
 <script>
 export default {
-  name: 'CoachesRegisteration'
+  name: 'CoachesRegistration'
 };
 </script>
 
